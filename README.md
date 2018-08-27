@@ -14,4 +14,6 @@ $ yarn start
 $ yarn run E2E-test
 ```
 
+local 
+
 `localhost:8080`
